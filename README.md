@@ -46,7 +46,8 @@ Developed by:Muralidar.P RegisterNumber:24900233
 
 
 **RTL realization**
-https://github.com/user-attachments/assets/10ffc830-8639-4603-a0eb-143c7d1d3ee0
+![exp2](https://github.com/user-attachments/assets/d35f328d-4ca4-47db-8fe2-30d6e53b1473)
+
 
 
 **Output:**
@@ -54,7 +55,8 @@ https://github.com/user-attachments/assets/10ffc830-8639-4603-a0eb-143c7d1d3ee0
 **RTL**
 
 **Timing Diagram**
-https://github.com/user-attachments/assets/6fbfe93e-2a7e-4d4d-82b0-2f7684f9eb16
+![exp2 sim](https://github.com/user-attachments/assets/5a0ecc55-f8f3-4a7d-8485-cc4fe96a9e6e)
+
 
 
 **Result:**
